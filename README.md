@@ -24,6 +24,7 @@ For detailed setup instructions, you might find it helpful to watch a tutorial v
    - Replace the placeholders in the `config.json` file with your actual values.
 
 3. **Here is the sql commands for the database, just copy and paste**:
+   
  CREATE TABLE member_counts (
     id INT AUTO_INCREMENT PRIMARY KEY,
     total_members INT,
