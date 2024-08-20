@@ -19,6 +19,26 @@ You need to [Install node.js](https://nodejs.org/en) to get this discord bot to 
 
 After you have installed node.js open the folder in [Visual studio](https://code.visualstudio.com/download) and run this in the terminal. "node index.js" and the bot should start up. Don't forget to add your token, client id and channels + roles in your configuration file. `config.json`
 
+## Required npm Packages
+
+To run the bot script, you need to install the following npm packages:
+
+### 1. `discord.js`
+**Purpose**: Provides an interface for interacting with the Discord API, including creating bots and handling events.
+
+### 2. `mysql2`
+**Purpose**: Used for connecting to and querying a MySQL database.
+
+### 3. `moment-timezone`
+**Purpose**: Helps with date and time formatting, including time zone support.
+
+### Installation
+
+To install the required packages, run the following command in your project directory:
+
+```sh
+npm install discord.js mysql2 moment-timezone
+
 ## Configuring the Bot
 
 1. **Create a Discord Application**: 
