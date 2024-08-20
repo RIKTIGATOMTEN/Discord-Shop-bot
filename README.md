@@ -12,7 +12,7 @@ To run this Discord bot, you need a database. You can use either MariaDB or MySQ
 
 For detailed setup instructions, you might find it helpful to watch a [Tutorial](https://www.youtube.com/watch?v=wgRwITQHszU) on YouTube.
 
-# How to run
+## How to run
 
 You need to [Install node.js](https://nodejs.org/en) to get this discord bot to work because its written in discord.js. If you want a more explained tutorial please watch this video. 
 [Youtube tutorial](https://www.youtube.com/watch?v=m4D7G3k_TKA&t=1s)
