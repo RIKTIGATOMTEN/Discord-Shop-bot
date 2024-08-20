@@ -10,7 +10,7 @@ To run this Discord bot, you need a database. You can use either MariaDB or MySQ
 - **MySQL Workbench**: [Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - **HeidiSQL**: [Download HeidiSQL](https://www.heidisql.com/download.php)
 
-For detailed setup instructions, you might find it helpful to watch a tutorial video on YouTube.
+For detailed setup instructions, you might find it helpful to watch a [Tutorial](https://www.youtube.com/watch?v=wgRwITQHszU) on YouTube.
 
 # How to run
 
