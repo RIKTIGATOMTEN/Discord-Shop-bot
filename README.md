@@ -38,7 +38,7 @@ To install the required packages, run the following command in your project dire
 
 ```sh
 npm install discord.js mysql2 moment-timezone
-
+```
 ## Configuring the Bot
 
 1. **Create a Discord Application**: 
@@ -134,3 +134,4 @@ Here's a sample `config.json` file. Make sure to replace the placeholder values 
   "antilinkChannelId": "CHANNEL ID FOR ANTILINK LOGS",
   "messageLogsChannelId": "CHANNEL ID FOR MESSAGE LOGS"
 }
+```
