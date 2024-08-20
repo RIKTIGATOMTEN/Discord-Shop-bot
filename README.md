@@ -102,3 +102,7 @@ Here's a sample `config.json` file. Make sure to replace the placeholder values 
   "antilinkChannelId": "CHANNEL ID FOR ANTILINK LOGS",
   "messageLogsChannelId": "CHANNEL ID FOR MESSAGE LOGS"
 }
+
+# How to run
+
+Open the folder in visualstudio and run this in the terminal. "node index.js"
