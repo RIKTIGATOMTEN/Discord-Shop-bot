@@ -30,7 +30,7 @@ After you have installed node.js open the folder in [Visual studio](https://code
    - Create a file named `config.json` in the root directory of your project.
    - Replace the placeholders in the `config.json` file with your actual values.
 
-3. **Here is the sql commands for the database, just copy and paste**:
+3. **Here is the sql commands for the database, just copy and paste into your software**:
    
  CREATE TABLE member_counts (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -45,11 +45,13 @@ CREATE TABLE server_goals (
     member_goal INT
 );
 
+
 CREATE TABLE User_roles (
     user_id VARCHAR(18) PRIMARY KEY,
     roles TEXT,
     username VARCHAR(100)
 );
+
 
 CREATE TABLE messages (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -57,6 +59,7 @@ CREATE TABLE messages (
     username VARCHAR(100),
     message TEXT
 );
+
 
 CREATE TABLE link_logs (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -67,12 +70,14 @@ CREATE TABLE link_logs (
     timestamp DATETIME
 );
 
+
 CREATE TABLE warnings (
     id INT AUTO_INCREMENT PRIMARY KEY,
     user_id VARCHAR(18),
     warning_type VARCHAR(50),
     date_time DATETIME
 );
+
 
 ### Configuration File
 
