@@ -1,7 +1,5 @@
 # Discord Bot Setup Guide
 
-## Prerequisites
-
 ### Database Setup
 
 To run this Discord bot, you need a database. You can use either MariaDB or MySQL for this purpose. Below are the download links for the required tools:
