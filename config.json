@@ -1,0 +1,29 @@
+{
+  "token": "YOUR DISCORD BOT TOKEN",
+  "clientId": "YOUR BOTS CLIENT ID",
+  "guildId": "YOUR GUILD ID",
+    
+    "welcomeChannelId": "THE CHANNEL THAT WELCOME MESSAGES WILL BE SENT TO",
+    "logChannelId": "THE JOIN LEAVE AND ROLE LOGS",
+    "requiredRoleId": "YOUR CUSTOMER ROLE",
+    "allowedRoles": "YOUR DOT ROLE OR OWNER ROLE ID",
+    "recensionChannelId": "1272323323824443584",
+    "punktroll": "YOUR DOT ROLE OR OWNER ROLE ID",
+    "memberCountChannelId": "THE MEMBER COUNT CHANNEL ID",
+    "kunderCountChannelId": "CUSTOMER COUNT CHANNEL ID",
+    "botCountChannelId": "BOT COUNT CHANNEL ID",
+    "goalCountChannelId": "GOAL COUNT CHANNEL ID",
+      
+
+    "databaseConfig": {
+        "host": "DATABASE IP",  
+        "port": 3306,              
+        "user": "YOUR USERNAME",   
+        "password": "YOUR PASSWORD",  
+        "database": "DATABASE NAME"       
+    },
+     "products": ["PRODUCT 1", "PRODUCT 2", "PRODUCT 3", "PRODUCT 4", "PRODUCT 5", "PRODUCT 6"],
+    "ratings": [1, 2, 3, 4, 5], 
+  "antilinkChannelId": "ANTILINK LOGS CHANNEL ID",
+  "messageLogsChannelId": "MESSAGE LOGS CHANNEL ID"
+}
