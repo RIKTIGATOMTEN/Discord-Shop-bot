@@ -14,6 +14,7 @@ For detailed setup instructions, you might find it helpful to watch a tutorial v
 
 # How to run
 
+# [Install node.js](https://nodejs.org/en) [Youtube tutorial](https://www.youtube.com/watch?v=m4D7G3k_TKA&t=1s)
 Open the folder in [Visual studio](https://code.visualstudio.com/download) and run this in the terminal. "node index.js"
 
 ## Configuring the Bot
