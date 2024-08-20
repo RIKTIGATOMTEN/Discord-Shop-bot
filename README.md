@@ -14,8 +14,10 @@ For detailed setup instructions, you might find it helpful to watch a tutorial v
 
 # How to run
 
-# [Install node.js](https://nodejs.org/en) [Youtube tutorial](https://www.youtube.com/watch?v=m4D7G3k_TKA&t=1s)
-Open the folder in [Visual studio](https://code.visualstudio.com/download) and run this in the terminal. "node index.js"
+You need to [Install node.js](https://nodejs.org/en) to get this discord bot to work because its written in discord.js. If you want a more explained tutorial please watch this video. 
+[Youtube tutorial](https://www.youtube.com/watch?v=m4D7G3k_TKA&t=1s)
+
+After you have installed node.js open the folder in [Visual studio](https://code.visualstudio.com/download) and run this in the terminal. "node index.js" and the bot should start up. Don't forget to add your token, client id and channels + roles in your configuration file. `config.json`
 
 ## Configuring the Bot
 
